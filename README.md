@@ -56,9 +56,9 @@ Percentiles (90%, 95%, 99%)
 All tests completed with 0% error rate.
 
 /jmeter-tests
- jsonplaceholder_smoke_test_1_user.jmx
- jsonplaceholder_load_test_50_users.jmx
- jsonplaceholder_load_test_100_users.jmx
- jsonplaceholder_load_test_200_users.jmx
- jsonplaceholder_load_test_500_users.jmx
+- jsonplaceholder_smoke_test_1_user.jmx
+- jsonplaceholder_load_test_50_users.jmx
+- jsonplaceholder_load_test_100_users.jmx
+- jsonplaceholder_load_test_200_users.jmx
+- jsonplaceholder_load_test_500_users.jmx
 
